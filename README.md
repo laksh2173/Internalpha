@@ -34,4 +34,6 @@ df = kagglehub.load_dataset(
 
 print("First 5 records:", df.head())
 ```
+License
 
+This project is open-source under the MIT License.
